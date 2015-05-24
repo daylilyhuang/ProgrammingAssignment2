@@ -1,4 +1,4 @@
-## makeCacheMatrix will calculate the inverse of the input matrix
+## makeCacheMatrix will cache the inverse of the input matrix
 
 ## It can set the matrix
 ## get the matrix
